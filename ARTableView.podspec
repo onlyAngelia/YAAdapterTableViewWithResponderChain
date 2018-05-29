@@ -92,7 +92,7 @@ s.source       = { :git => "https://github.com/onlyAngelia/YAAdapterTableViewWit
 #  Not including the public_header_files will make all headers public.
 #
 
-s.source_files  = "YAAdapterTableViewWithResponderChain/UIViewCategory/**/*.{h,m}"
+s.source_files  = "UIViewCategory/**/*.{h,m}"
 # s.exclude_files = "Classes/Exclude"
 
 # s.public_header_files = "Classes/**/*.h"
