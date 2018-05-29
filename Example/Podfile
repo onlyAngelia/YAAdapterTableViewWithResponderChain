@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'ARTableView.podspec_Example' do
+  pod 'ARTableView.podspec', :path => '../'
+
+  target 'ARTableView.podspec_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
