@@ -1,9 +1,9 @@
 # ARTableView.podspec
 
-[![CI Status](https://img.shields.io/travis/onlyAngelia/ARTableView.podspec.svg?style=flat)](https://travis-ci.org/onlyAngelia/ARTableView.podspec)
-[![Version](https://img.shields.io/cocoapods/v/ARTableView.podspec.svg?style=flat)](https://cocoapods.org/pods/ARTableView.podspec)
-[![License](https://img.shields.io/cocoapods/l/ARTableView.podspec.svg?style=flat)](https://cocoapods.org/pods/ARTableView.podspec)
-[![Platform](https://img.shields.io/cocoapods/p/ARTableView.podspec.svg?style=flat)](https://cocoapods.org/pods/ARTableView.podspec)
+[![CI Status](https://img.shields.io/travis/onlyAngelia/ARTableView.podspec.svg?style=flat)](https://travis-ci.org/onlyAngelia/ARTableView)
+[![Version](https://img.shields.io/cocoapods/v/ARTableView.podspec.svg?style=flat)](https://cocoapods.org/pods/ARTableView)
+[![License](https://img.shields.io/cocoapods/l/ARTableView.podspec.svg?style=flat)](https://cocoapods.org/pods/ARTableView)
+[![Platform](https://img.shields.io/cocoapods/p/ARTableView.podspec.svg?style=flat)](https://cocoapods.org/pods/ARTableView)
 
 ## Example
 
