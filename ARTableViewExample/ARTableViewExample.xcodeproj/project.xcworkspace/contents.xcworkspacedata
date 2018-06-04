@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ARTableView.podspec.xcodeproj">
+      location = "self:ARTableViewExample.xcodeproj">
    </FileRef>
 </Workspace>
