@@ -72,11 +72,11 @@ static NSString *cellIdentifier = @"cellIdentifier";
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
     
-    [_tableView rountEvent:seletedEventName userInfo:@{@"indexPath":indexPath}];
+    [_tableView rountEvent:kCCellSeletedEventName userInfo:@{@"indexPath":indexPath}];
     
 }
 - (void)scrollViewDidScroll:(UIScrollView *)scrollView
 {
-    [_tableView rountEvent:didSrollEventName userInfo:@{@"scrollView":scrollView}];
+    [_tableView rountEvent:kCTableViewDidSrollEventName userInfo:@{@"scrollView":scrollView}];
 }
 @end

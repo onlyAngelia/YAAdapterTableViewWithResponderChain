@@ -9,8 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-static NSString *seletedEventName = @"TableViewAdapterDidSeletedCellEvent";
-static NSString *didSrollEventName = @"TableViewAdapterDidSrollEvent";
+static NSString *kCCellSeletedEventName = @"TableViewAdapterDidSeletedCellEvent";
+static NSString *kCTableViewDidSrollEventName = @"TableViewAdapterDidSrollEvent";
 
 @interface UITableViewAdapter : NSObject<UITableViewDelegate,UITableViewDataSource>
 
