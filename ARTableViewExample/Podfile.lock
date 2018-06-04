@@ -1,0 +1,16 @@
+PODS:
+  - ARTableView (1.0.2)
+
+DEPENDENCIES:
+  - ARTableView (~> 1.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ARTableView
+
+SPEC CHECKSUMS:
+  ARTableView: 7a8f46385b2df5b9966514b04b60adf09710ee34
+
+PODFILE CHECKSUM: 0050838d38f007f5615c4d79473ad0e9b7e3f2c9
+
+COCOAPODS: 1.5.3

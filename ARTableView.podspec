@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "ARTableView"
-s.version      = "1.0.1"
+s.version      = "1.0.2"
 s.summary      = "Adapter+Responder+Strategy+UITableView"
 s.description  = "Adapter模式+基于Responder的Strategy模式封装的UITablView,将UITableView的代理方法交给Adapter管理，避免每次创建时要n多代理方法，在选中cell、滑动代理等方法用ResponderChain进行事件传递，结合Strategy消除了if-else，增加可读性"
 s.homepage     = "https://github.com/onlyAngelia/YAAdapterTableViewWithResponderChain"
