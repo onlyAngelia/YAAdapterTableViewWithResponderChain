@@ -17,14 +17,13 @@ ARTableView.podspec is available through [CocoaPods](https://cocoapods.org). To 
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ARTableView', '~> 1.0'
+pod 'ARTableView', '~> 1.0.1'
 ```
-
 Then run a pod install inside your terminal
 
 ## Author
 
-onlyAngelia, 479397375@qq.com
+onlyAngelia, [关门滢](https://m.weibo.cn/p/1005052683037683)
 
 ## License
 
